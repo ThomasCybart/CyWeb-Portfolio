@@ -117,8 +117,8 @@ Python, Pandas, SQL Analytics
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-8B5CF6?style=for-the-badge&logo=vercel)](https://cyweb.vercel.app)
-[![Contact](https://img.shields.io/badge/📧_Get_Started-Email_Me-8B5CF6?style=for-the-badge&logo=microsoft-outlook)](mailto:b.thomasjcybart@hotmail.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-8B5CF6?style=for-the-badge&logo=vercel)](https://cy-web-iota.vercel.app/)
+[![Contact](https://img.shields.io/badge/📧_Get_Started-Email_Me-8B5CF6?style=for-the-badge&logo=microsoft-outlook)](mailto:cywebdev@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/thomas-cybart-)
 
 </div>
