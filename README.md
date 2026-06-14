@@ -67,7 +67,6 @@ Python, Pandas, SQL Analytics
 - 📝 **Contact forms** that actually work
 - 🔒 **Secure & reliable** hosting setup
 - 📱 **Mobile-first** responsive approach
-- ⚡ **Performance scores** 95+ on Lighthouse
 
 ## 🛠️ Tech Stack
 
@@ -78,19 +77,6 @@ Python, Pandas, SQL Analytics
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-</div>
-
-## 📈 Performance
-
-<div align="center">
-
-| Metric | Score |
-|--------|-------|
-| 🚀 Performance | 98/100 |
-| ♿ Accessibility | 100/100 |
-| 🔍 SEO | 100/100 |
-| 📱 Best Practices | 95/100 |
 
 </div>
 
