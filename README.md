@@ -4,7 +4,6 @@
 
 [![Website](https://img.shields.io/badge/🌐_Live_Site-cyweb.vercel.app-8B5CF6?style=for-the-badge)](https://cyweb.vercel.app)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()
-[![Made with](https://img.shields.io/badge/Made_with-❤️-ff69b4?style=for-the-badge)]()
 
 </div>
 
@@ -100,7 +99,11 @@ Python, Pandas, SQL Analytics
 
 <div align="center">
 
+<a href="https://cy-web-iota.vercel.app/">
+
 <img src="https://i.imgur.com/PKnBVte.png" alt="CyWeb Preview" width="950"/>
+
+<a/>
 
 <br><br>
 
