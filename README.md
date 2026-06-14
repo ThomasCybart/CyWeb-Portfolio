@@ -99,7 +99,15 @@ Python, Pandas, SQL Analytics
 ## 📸 Preview
 
 <div align="center">
-  <i>Modern design crafted for conversion and user experience</i>
+
+<img src="https://i.imgur.com/PKnBVte.png" alt="CyWeb Preview" width="950"/>
+
+<br><br>
+
+🚀 **Modern web experience built with Next.js, React & TypeScript**
+
+<i>Fast, responsive and conversion-focused development.</i>
+
 </div>
 
 ## 🔗 Quick Links
