@@ -112,24 +112,5 @@ Python, Pandas, SQL Analytics
 
 </div>
 
----
-
-## 🌟 Why Work With Me?
-
-```javascript
-const whyChooseMe = {
-    experience: "Data Analyst & Web Developer",
-    approach: "Data-driven design decisions",
-    focus: "Conversion & performance",
-    communication: "Clear, responsive, professional",
-    delivery: "On time, every time",
-    support: "Post-launch maintenance available"
-};
-Ready to take your online presence to the next level? Let's discuss your project!
-
-<div align="center">
-🌐 cyweb.vercel.app
-📧 b.thomasjcybart@hotmail.com
-<sub>Built with ❤️ by Thomas Cybart | © 2024 CyWeb</sub>
 
 </div> ```
