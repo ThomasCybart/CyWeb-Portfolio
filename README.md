@@ -125,3 +125,11 @@ const whyChooseMe = {
     delivery: "On time, every time",
     support: "Post-launch maintenance available"
 };
+Ready to take your online presence to the next level? Let's discuss your project!
+
+<div align="center">
+🌐 cyweb.vercel.app
+📧 b.thomasjcybart@hotmail.com
+<sub>Built with ❤️ by Thomas Cybart | © 2024 CyWeb</sub>
+
+</div> ```
