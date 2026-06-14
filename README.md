@@ -2,7 +2,6 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Live_Site-cyweb.vercel.app-8B5CF6?style=for-the-badge)](https://cyweb.vercel.app)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()
 
 </div>
